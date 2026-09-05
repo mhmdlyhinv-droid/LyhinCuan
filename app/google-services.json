@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "573886683783",
+    "project_id": "lyhincuandatabase",
+    "storage_bucket": "lyhincuandatabase.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:573886683783:android:65747beb846e4e41217622",
+        "android_client_info": {
+          "package_name": "com.lyhin.cuan"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDrBoF2ttreZP4wsGzUhpsPWsZ14rc6pcE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
