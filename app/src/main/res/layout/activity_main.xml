@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:gravity="center"
+    android:padding="20dp">
+
+    <TextView
+        android:id="@+id/tvCoins"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Koin: 0"
+        android:textSize="24sp"
+        android:textStyle="bold" />
+
+    <Button
+        android:id="@+id/btnMerge"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Merge Hewan (+10 Koin)"
+        android:layout_marginTop="20dp" />
+
+    <EditText
+        android:id="@+id/etNomorDena"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Masukkan Nomor DANA/OVO"
+        android:inputType="phone"
+        android:layout_marginTop="30dp" />
+
+    <Button
+        android:id="@+id/btnWithdraw"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Tarik Cuan"
+        android:layout_marginTop="10dp" />
+
+</LinearLayout>
+
